@@ -1,5 +1,5 @@
 ---
-title: 1. Ticket Etiquette
+title: Ticket Etiquette
 ---
 As mentioned in [[General Etiquette]], staff should remember they represent the server.
 

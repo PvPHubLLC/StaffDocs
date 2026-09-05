@@ -1,8 +1,7 @@
 ---
-title: Copypastas
+title: Ticket Copy & Pastes
 ---
-
-Some useful copy-pastas that you may use in tickets, summarised from `🥧・tidbits`. If you would like anything added, please DM 0bi0. I'll review and add that as soon as possible.
+Some useful copy-pastas that you may use in tickets, summarised from `🥧・tidbits`. If you would like anything added, please message 0bi0. I'll review and add that as soon as possible.
 
 ---
 
@@ -56,6 +55,23 @@ Some useful copy-pastas that you may use in tickets, summarised from `🥧・tid
 *Higher ranks include all lower rank perks!*
 
 **:warning: Important Note:** This is a private event - you decide whether someone gets kicked or not! You make the rules for your own event.
+```
+
+---
+
+```
+**To get your Tier on PvPHub:**
+
+1.  Join: https://discord.gg/cpvp
+2.  Go to `:white_check_mark: | verification`, react & accept rules.
+3.  Go to `:e_mail: | request-test`.
+    *   *Scroll up then click **"Verify Account"** and follow the bot's instructions.*
+
+**To Request a Test:**
+• Scroll back up and click **"Enter Waitlist"** to enter the waitlist and join the test queue (only when open).
+
+**Finally:**
+• Once you get the role on Discord linked below, it will automatically sync to PvPHub.
 ```
 
 ---
