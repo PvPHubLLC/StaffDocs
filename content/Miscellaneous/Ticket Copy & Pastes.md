@@ -1,7 +1,7 @@
 ---
 title: Ticket Copy & Pastes
 ---
-Some useful copy-pastas that you may use in tickets, summarised from `🥧・tidbits`. If you would like anything added, please message 0bi0. I'll review and add that as soon as possible.
+Some useful copy-pastas that you may use in tickets, summarised from `🥧・tidbits`. If you would like anything added, please message 0bi0. The submitted content will be reviewed (and potentially added) as soon as possible.
 
 ---
 

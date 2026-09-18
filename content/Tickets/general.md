@@ -1,5 +1,5 @@
 ---
-title: 3. General Tickets
+title: 2. General Tickets
 ---
 > ℹ️ [[Support]] and above may handle this ticket type.
 

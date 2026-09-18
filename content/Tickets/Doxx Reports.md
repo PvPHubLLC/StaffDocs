@@ -1,5 +1,5 @@
 ---
-title: 5. Doxx Reports
+title: 4. Doxx Reports
 ---
 > [!NOTE]
 > While a documented procedure regarding how we handle doxxing reports exists, ultimately, each report is handled on a case-by-case basis. The outcome of each report is decided by a plethora of factors.

@@ -11,7 +11,7 @@ Generic procedures for tickets (appeals/general/reports):
 #### **Appeals**
 
 ```
-[User opens ticket]
+[ User opens ticket ]
   
 - Check what Polar/TotemGuard flag user got banned for
 - Ask for user's mod list
@@ -109,5 +109,3 @@ If the provided evidence is not sufficient, do not issue any punishment:
     - Tell user that the evidence is insufficient
     - Run command `/closerequest: close_delay:24 reason:Insufficient evidence`
 ```
-
----

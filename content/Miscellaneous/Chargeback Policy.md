@@ -2,7 +2,7 @@
 title: Chargeback policy
 ---
 >[!NOTE]
-If a player charges back on PvPHub, Tebex will automatically ban them for it. If the user appeals, follow the process below.
+> If a player charges back on PvPHub, Tebex will automatically ban them for it. If the user appeals, follow the process below.
 
 **Ask the user why they charged back:**
 - Was it an accidental purchase?

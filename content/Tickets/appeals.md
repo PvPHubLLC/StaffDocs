@@ -1,5 +1,5 @@
 ---
-title: 2. Appeal Tickets
+title: 1. Appeal Tickets
 ---
 > ℹ️ [[Moderator]] and above may handle this ticket type.
 

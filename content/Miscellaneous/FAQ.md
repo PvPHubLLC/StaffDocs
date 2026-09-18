@@ -20,15 +20,15 @@ This page should serve as your go-to hub for any miscellaneous information regar
 ---
 
 ## Position Acquisition
-- **Staff applications:** `🚓・staff-applications` 
+- **Staff applications:** `📝・applications` 
 
   *Applications are the only accepted method of becoming staff*
 - **Staff application process:**  
   - Initial application  
   - Wave 2 (may take up to **10 days**)
-- **Media applications:** `📷・media-applications`
-- **Community Managers:** ❌ Not currently recruiting
-- **Developers:** ❌ Not currently recruiting
+- **Media applications:** `📝・applications`
+- **Community Managers:** ❌ Not currently hiring
+- **Developers:** ❌ Not currently hiring
 
 
 ---
